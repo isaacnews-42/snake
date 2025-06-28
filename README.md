@@ -17,11 +17,11 @@ Made a game of Snake using Java.
 - Swing (comes bundled with Java)
 
 ## How to Run
+- You may copy and paste the code in the files and put them into your IDE (As long at the requirements are met).
 
-Compile and run the `Game.java` file:
+- Or you can Compile and run the `Game.java` file:
 
 ```bash
 javac Game.java
 java Game
 
-- You may also copy and paste the code in the files and put them into your IDE (As long at the requirements are met).
